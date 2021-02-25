@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dish-db" />
+        <module name="dish-general" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dish-db" target="1.8" />
+      <module name="dish-general" target="1.8" />
+      <module name="dish-start" target="1.8" />
+      <module name="smartdish" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dish-db" options="-parameters" />
+      <module name="dish-general" options="-parameters" />
+      <module name="dish-start" options="-parameters" />
+      <module name="smartdish" options="-parameters" />
+    </option>
+  </component>
+</project>

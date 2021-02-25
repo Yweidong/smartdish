@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dish-db/dish-db.iml" filepath="$PROJECT_DIR$/dish-db/dish-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dish-general/dish-general.iml" filepath="$PROJECT_DIR$/dish-general/dish-general.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartdish.iml" filepath="$PROJECT_DIR$/smartdish.iml" />
+    </modules>
+  </component>
+</project>

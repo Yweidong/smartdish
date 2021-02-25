@@ -1,0 +1,3 @@
+# Project exclude paths
+/dish-db/target/
+/dish-general/target/
